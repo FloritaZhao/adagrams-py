@@ -1,3 +1,5 @@
+# i will write down my first blood - Mar 13
+# 
 from random import randint
 
 def draw_letters():
